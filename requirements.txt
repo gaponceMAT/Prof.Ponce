@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 matplotlib
-pylab
 fpdf
 base64
 smtplib
