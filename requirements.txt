@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+csv
+pylab
+fpdf
+base64
+smtplib
+string
+email
+email.mime.multipart
+email.mime.text
+email.mime.base
