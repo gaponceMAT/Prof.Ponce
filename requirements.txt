@@ -4,6 +4,4 @@ numpy
 matplotlib
 fpdf
 email
-email.mime.multipart
-email.mime.text
-email.mime.base
+
