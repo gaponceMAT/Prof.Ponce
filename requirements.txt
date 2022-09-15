@@ -3,7 +3,6 @@ pandas
 numpy
 matplotlib
 fpdf
-string
 email
 email.mime.multipart
 email.mime.text
